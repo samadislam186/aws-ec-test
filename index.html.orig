@@ -13,8 +13,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <h1> This is second Version </h1>
 <h1> This is second Version </h1>
+=======
 <h1> This is second Version </h1><h1> This is second Version </h1>
+>>>>>>> b4a6c6f8f293cb9d07205d512e1d89f731235e87
 </body>
 </html>
